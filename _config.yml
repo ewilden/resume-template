@@ -1,0 +1,54 @@
+# Site settings
+title: "Evan Wildenhain"
+description: "Resume"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Evan Wildenhain"
+resume_title:                   "CS @ Princeton - Class of 2019"
+resume_contact_email:
+  "evan.wildenhain@gmail.com"
+resume_header_contact_info: "evan.wildenhain@gmail.com | github.com/ewilden | evanwildenha.in"
+#resume_header_intro: "<p>Going into my last year of undergrad and I've done a lot: frontend, backend, deep learning, algorithmic game theory. (Now, more than ever, do I feel entitled to be called a \"full stack developer.\") I've demonstrated I care about writing excellent code and shipping excellent products. I'm ready to produce my best and learn from the best.</p>"
+resume_header_intro: "<p>Going into my last year of undergrad and looking for roles that let me explore as a generalist (at least initially) and provide ample, rapid feedback for improving as an engineer.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+# resume_section_links:           true
+# resume_section_associations:    true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/ewilden"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/evanwildenhain"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  # resume_website_url:           "http://joelglovier.com"
+resume_print_social_links:      false
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

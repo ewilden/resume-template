@@ -1,0 +1,27 @@
+# Projects
+
+- project: Selling to No-Regret Buyers
+  role: Author (paper in progress)
+  duration: Feb 2018 &mdash; Present
+  description: Worked with Princeton professor <a href="https://www.cs.princeton.edu/~smattw/" target="_blank" style="color&#58; black">Matt Weinberg</a> to prove a theorem showing how an auctioneer running a repeated auction (e.g. a Google ad auction) can exploit bidders running common no-regret learning algorithms to extract full utility from them. 
+
+- project: <a href="https://devpost.com/software/news-sentiment" target="_blank">Resent(i)ment Analysis</a>
+  role: Developer (ML and Backend)
+  duration: Sep 2017 &mdash; Oct 2017
+  description: HackMIT winner (Baidu's $10,000 prize for Best Paddle Hack). Developed a model for identifying social media comments as containing personal attacks using Baidu's Paddle Deep Learning framework to call attention to online harassment and its biases.
+
+# tigertra.de
+- project: <a href="https://github.com/casey-chow/tigertrade" target="_blank">Princeton TigerTrade</a>
+  role: Primary Frontend Developer 
+  duration: Mar 2017 &mdash; Jun 2017
+  description: Platform for Princeton University students and faculty to buy and sell goods. Developed with React/Redux on the frontend, and Go on the backend. 
+
+#- project: <a href="https://devpost.com/software/more_donald" target="_blank">Trumpr (More Donald)</a>
+#  role: Developer
+#  duration: 2015
+#  description: Developed a webapp and award-winning HackPrinceton 2015 project built on Meteor and React that constructs a Markov model from a given user's Twitter timeline to generate similarly-written tweets. I was responsible chiefly for the backend code for retrieving Tweets, generating the model, and generating clean-looking output. 
+
+#- project: <a href="https://goo.gl/QBX4M3" target="_blank">Multi-Colony System Optimization Algorithm</a>
+#  role: First Author
+#  duration: 2014
+#  description: I developed a novel ant colony optimization algorithm for solving the traveling salesman problem that used multiple distinct "colonies" to avoid local maxima. I published a <a href="https://goo.gl/waK3Kb">paper</a> demonstrating my algorithm’s significant performance advantages.

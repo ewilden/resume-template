@@ -1,0 +1,32 @@
+# Jobs
+
+# FBNY SWE Intern
+- company: Facebook New York
+  position: Software Engineering Intern
+  duration: May 2018 &mdash; Aug 2018
+  summary: Developed unified routing system for all recruiting tools at Facebook, enabling over 50 separate applications to function seamlessly as a single-page app. Became a React & ReactRouter expert and coordinated with multiple teams across different offices to make this happen. 
+
+# Facebook SWE Intern
+- company: Facebook Seattle
+  position: Software Engineering Intern
+  duration: May 2017 &mdash; Aug 2017
+ # summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+  summary: Developed C++ client for optimized reading of the internal-to-Facebook fork of the Apache Hadoop ORC file format. Benchmarks showed as much as 50% improvement in CPU time on local file reading speed against existing Java implementation. 
+
+# # LabTA
+# - company: Princeton University
+#   position: Computer Science Lab TA
+#   duration:   Sep 2016  &mdash; Present
+#   summary: Providing instruction and assistance to students in introductory computer science courses. I assisted the most students per shift of all lab TAs between January and May 2017. 
+
+# # FBU
+# - company: Facebook
+#   position: Facebook University for Engineers - Android
+#   duration:  Jun 2016 &mdash; Aug 2016
+#   summary: Developed Recollect, a photo compilation app for automatically organizing photos by date and location into easy-to-share digital scrapbooks. 
+
+# - company: San Diego Supercomputer Center
+#   position: Research Intern
+#   duration: Jun 2014 &mdash; Aug 2014
+#   summary: Developed interfaces to integrate the AMBER molecular dynamics simulation software project with other quantum mechanics simulation packages. My code remains in production in the official <a href="http://ambermd.org">AmberTools</a> distribution. 
+
